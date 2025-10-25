@@ -47,7 +47,7 @@ A real-time stock trading simulation game built with React, Vite, Tailwind CSS, 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/stock-broker.git
+git clone https://github.com/aryamansingh04/Stock-Broker.git
 cd "Stock Broker"
 ```
 
@@ -267,9 +267,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+**Aryaman Singh**
+- GitHub: [@aryamansingh04](https://github.com/aryamansingh04)
 
 ## 🙏 Acknowledgments
 
@@ -282,10 +281,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/stock-broker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/stock-broker?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/stock-broker)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/stock-broker)
+![GitHub stars](https://img.shields.io/github/stars/aryamansingh04/Stock-Broker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/aryamansingh04/Stock-Broker?style=social)
+![GitHub issues](https://img.shields.io/github/issues/aryamansingh04/Stock-Broker)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/aryamansingh04/Stock-Broker)
 
 ---
 
